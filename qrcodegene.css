@@ -1,0 +1,13 @@
+input{
+    height: 30px;width: 97%;border: solid 1px orangered;border-radius: 5px;
+}
+section{border: solid black 1px;width: 250px;padding-bottom: 10px;border-radius: 10px;
+    position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);padding-left: 10px;padding-right: 10px;
+}
+button{
+    width: 97%;display: block;text-align: center;background-color: blue;color: white;margin: auto;
+    padding-top: 5px;padding-bottom: 5px;border-radius: 5px;border: none;
+}
+#home{
+    height: fit-content;width: fit-content;margin: auto;margin-top: 10px;margin-bottom: 10px;
+}
